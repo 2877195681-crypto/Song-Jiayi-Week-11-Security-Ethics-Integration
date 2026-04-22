@@ -1,5 +1,5 @@
 # Input validation and sanitization in security.py
-_Exported on 4/22/2026 at 23:26:40 GMT+8 from Cursor (3.1.17)_
+_Exported on 4/22/2026 at 23:31:53 GMT+8 from Cursor (3.1.17)_
 
 ---
 
@@ -404,4 +404,29 @@ Created `README.md` with a full security-focused documentation page set (about 1
 File added: `README.md`
 
 If you want, I can also tailor this into an academic report style (with numbered subsections and slightly more formal wording for submission).
+
+---
+
+**User**
+
+The length of @README.md should be within 2 pages.
+
+---
+
+**Cursor**
+
+I’ll shorten `README.md` to a tighter version that still keeps all required sections, targeting a clear 2-page maximum. Then I’ll confirm the new length.
+
+Updated `README.md` to a shorter version that fits a typical **2-page** limit.
+
+- New length: **121 lines**
+- Keeps all required sections:
+  - short system overview
+  - threat model
+  - security measures implemented
+  - how to use the module
+  - limitations
+- Also keeps a compact “Suggested Improvements” section at the end
+
+If you want it even tighter (for strict formatting like 12pt + double spacing), I can trim it to ~90 lines.
 
